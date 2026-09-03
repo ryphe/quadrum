@@ -43,12 +43,12 @@
 | **On-Screen Buttons** | Click buttons 1-8 to play drums |
 | **Knobs** | Drag vertically to adjust; hold `Shift` for fine tuning |
 | **Mouse Wheel** | Hover and scroll; `Shift` for finer steps |
-| **Master Dial** | Global output volume |
 | **Voice Pads** | Click to select and audition a drum voice |
 | **Play** | Retrigger the active voice and scope |
 | **Export** | Save current voice as 32-bit float WAV |
 | **Reset** | Reset current voice to factory defaults |
 | **Keybinds** | Open keybinds window |
+| **Master Volume** | Global output level |
 
 ---
 
