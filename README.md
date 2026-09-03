@@ -48,7 +48,7 @@
 | **Play** | Retrigger the active voice and scope |
 | **Export** | Save current voice as 32-bit float WAV |
 | **Reset** | Reset current voice to factory defaults |
-| **Keybinds** | Display shortcut overlay |
+| **Keybinds** | Open keybinds window |
 
 ---
 
