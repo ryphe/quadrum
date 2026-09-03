@@ -4,7 +4,7 @@
 
 <h2 align="center">quadrum</h2>
 <p align="center">
-  8-voice procedural virtual analog drum synthesizer
+  8-voice procedural virtual analog drum synthesizer (C99/Win32)
 </p>
 
 ---
